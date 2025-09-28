@@ -4,3 +4,4 @@ scikit-learn>=1.7
 matplotlib>=3.9
 seaborn>=0.13
 jupyterlab>=4.2
+ucimlrepos>=0.3.1
